@@ -37,3 +37,7 @@ nosetests.xml
 # Komodo
 .komodotools/
 *.komodoproject
+
+# Node/NPM
+npm-debug.log
+node_modules/
