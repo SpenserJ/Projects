@@ -1,0 +1,12 @@
+{
+  "name": "MegaProjectList",
+  "description": "Fork of http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SpenserJ/Projects.git"
+  },
+  "dependencies": {
+    "esrever": "0.1.x"
+  }
+}
